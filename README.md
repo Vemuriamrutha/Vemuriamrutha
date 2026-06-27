@@ -106,7 +106,7 @@ That is exactly what makes me different.
 ---
 ---
 
-## 🏆 Achievements & Hackathons
+##🏆 Hackathons & Achievements
 📅 2024 - 2026 Timeline
 
 ├── 🥇 Smart India Hackathon (SIH) 2025        — National Finalist
