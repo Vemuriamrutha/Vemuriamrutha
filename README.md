@@ -104,6 +104,20 @@ That is exactly what makes me different.
 - 📊 **GenAI Powered Data Analytics Simulation** — TATA (Forage)
 - 🤖 **Introduction to Generative AI** — IBM
 ---
+---
+
+## 🏆 Achievements & Hackathons
+📅 2024 - 2026 Timeline
+
+├── 🥇 Smart India Hackathon (SIH) 2025        — National Finalist
+
+├── 🏅 AIGNITE 2025 Hackathon                  — Top 10, Malla Reddy Engineering College
+
+├── 🎖️ Nxtwave Buildathon                      — State Level
+
+└── 🔬 DRDO-RCI Embedded Systems Intern        — Defence-grade lab, Hyderabad (June 2026 – Present)
+
+---
 ## 🛠️ Tech Stack
 ### 💻 Languages & Web
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
