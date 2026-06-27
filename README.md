@@ -96,7 +96,14 @@ That is exactly what makes me different.
 - 🔗 [View Project →](https://github.com/Vemuriamrutha/Digital-Foot-Print-Risk-Analyzer)
 
 ---
+## 📜 Certifications
 
+- 🏦 **Data Analyst Job Simulation** — Deloitte (Forage)
+- 🔐 **Cyber Job Simulation** — Deloitte (Forage)
+- 💻 **Software Engineering Job Simulation** — JPMorgan Chase (Forage)
+- 📊 **GenAI Powered Data Analytics Simulation** — TATA (Forage)
+- 🤖 **Introduction to Generative AI** — IBM
+---
 ## 🛠️ Tech Stack
 ### 💻 Languages & Web
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
