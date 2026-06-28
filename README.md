@@ -172,11 +172,15 @@ That is exactly what makes me different.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vemuriamrutha&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
+---
+
+## ⚡ Fun Fact
+
+"I didn't start with tutorials — I started by building real embedded systems at a defence lab. That gap between theory and real hardware is exactly what drives me."
 
 ---
 
----
 <p align="center">
-📩 vvemuriamrutha@gmail.com &nbsp;|&nbsp;
+📩 vvemuriamrutha@gmail.com
 🔗 <a href="https://linkedin.com/in/vemuri-amrutha">linkedin.com/in/vemuri-amrutha</a>
 </p>
