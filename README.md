@@ -20,6 +20,14 @@
 </p>
 
 ---
+## ⚙️ Live Status
+
+- 💻 **Currently Working On:** Embedded Systems at DRDO-RCI (Defence-grade, physical lab)
+- 📚 **Currently Learning:** STM32 advanced firmware · REST API cloud integration · AI/ML pipelines
+- 🧩 **DSA Focus:** Data Structures & Algorithms (Consistency > Speed)
+- ⚡ **Hackathons:** SIH 2025 Finalist · AIGNITE Top 10 · Nxtwave State Level
+
+---
 ## 💫 About Me
 🎓 While most ECE students were studying circuits in classrooms,
 I was building real systems at **DRDO – Research Centre Imarat (RCI)**
