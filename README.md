@@ -1,4 +1,25 @@
 # Vemuri Amrutha
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Amrutha+Vemuri;ECE+Engineer+%7C+DRDO-RCI+Intern;Full-Stack+%26+AI%2FML+Developer;SIH+2025+National+Finalist+%F0%9F%8F%86" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://linkedin.com/in/vemuri-amrutha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vvemuriamrutha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Vemuriamrutha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vemuriamrutha&label=Profile+Views&color=C084FC&style=flat" alt="Profile Views" />
+</p>
+
+---
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Python+%7C+TypeScript+%7C+React+%7C+Flask+%7C+Node.js;AI%2FML+%7C+TensorFlow+%7C+Scikit-Learn+%7C+REST+APIs;Full-Stack+Developer+%7C+Cloud+%7C+AWS+%7C+Firebase" alt="Software Stack Animation" />
