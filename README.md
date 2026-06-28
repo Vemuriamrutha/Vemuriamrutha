@@ -20,32 +20,6 @@
 </p>
 
 ---
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Python+%7C+TypeScript+%7C+React+%7C+Flask+%7C+Node.js;AI%2FML+%7C+TensorFlow+%7C+Scikit-Learn+%7C+REST+APIs;Full-Stack+Developer+%7C+Cloud+%7C+AWS+%7C+Firebase" alt="Software Stack Animation" />
-</h2>
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=ESP32+%7C+STM32+%7C+Arduino+%7C+Raspberry+Pi;UART+%7C+I2C+%7C+SPI+%7C+Embedded+C+%7C+IoT;DRDO-RCI+Intern+%7C+Defence-Grade+Embedded+Systems" alt="Hardware Stack Animation" />
-</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/vemuri-amrutha">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vvemuriamrutha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Vemuriamrutha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vemuriamrutha&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-
 ## 💫 About Me
 🎓 While most ECE students were studying circuits in classrooms,
 I was building real systems at **DRDO – Research Centre Imarat (RCI)**
