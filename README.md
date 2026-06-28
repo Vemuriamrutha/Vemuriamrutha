@@ -79,13 +79,8 @@ That is exactly what makes me different.
 | 🤖 AI Prescription Guard | Python, Flask | AI-driven prescription analysis for healthcare |
 | 🪙 Crypto Intelligence System (SIH-2025) | AI/ML, NLP, Graph Analytics | Cryptocurrency risk & network visualization |
 | 🏠 Voice-Controlled IoT Automation | Raspberry Pi, Google Assistant, Python | Multilingual smart home appliance control |
-## 📜 Certifications
+ — TATA (Forage)
 
-- 🏦 **Data Analyst Job Simulation** — Deloitte (Forage)
-- 🔐 **Cyber Job Simulation** — Deloitte (Forage)
-- 💻 **Software Engineering Job Simulation** — JPMorgan Chase (Forage)
-- 📊 **GenAI Powered Data Analytics Simulation** — TATA (Forage)
-- 🤖 **Introduction to Generative AI** — IBM
 ---
 
 ## 🏆 Hackathons & Achievements
