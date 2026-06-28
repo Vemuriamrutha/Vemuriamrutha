@@ -79,7 +79,7 @@ That is exactly what makes me different.
 | 🤖 AI Prescription Guard | Python, Flask | AI-driven prescription analysis for healthcare |
 | 🪙 Crypto Intelligence System (SIH-2025) | AI/ML, NLP, Graph Analytics | Cryptocurrency risk & network visualization |
 | 🏠 Voice-Controlled IoT Automation | Raspberry Pi, Google Assistant, Python | Multilingual smart home appliance control |
- — TATA (Forage)
+ 
 
 ---
 
