@@ -143,6 +143,8 @@ That is exactly what makes me different.
 
 ### 🧩 Concepts
 `Data Structures & Algorithms` `Problem Solving` `UART · I2C · SPI` `GPIO Interfacing` `REST APIs` `IoT Data Pipelines` `OTA Updates` `Interrupt Handling` `Analytical Reasoning` `Cross-Functional Collaboration`
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -162,6 +164,5 @@ That is exactly what makes me different.
 ---
 
 <p align="center">
-📩 vvemuriamrutha@gmail.com
+📩 vvemuriamrutha@gmail.com &nbsp;|&nbsp;
 🔗 <a href="https://linkedin.com/in/vemuri-amrutha">linkedin.com/in/vemuri-amrutha</a>
-</p>
