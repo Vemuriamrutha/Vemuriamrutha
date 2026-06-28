@@ -70,9 +70,6 @@ That is not a combination most people bring.
 That is exactly what makes me different.
 
 ---
-
-## 🔥 Featured Projects
-
 ## 📌 Featured Projects
 
 | Project | Core Tech Stack | Focus Area |
