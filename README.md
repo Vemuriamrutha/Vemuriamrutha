@@ -73,32 +73,16 @@ That is exactly what makes me different.
 
 ## 🔥 Featured Projects
 
-### 🏥 Smart Community Health Monitoring
-> Real-time AI-powered platform for monitoring community health data at scale
-- Built with **TypeScript** for a robust, type-safe full-stack architecture
-- Integrates **live health metrics** with intelligent alert systems
-- Designed to serve **entire communities**, not just individuals
-- 🔗 [View Project →](https://github.com/Vemuriamrutha/Smart-Community-Health-Monitoring)
+## 📌 Featured Projects
 
----
-
-### 🧭 Health Navigator
-> Intelligent health guidance system that helps users navigate their health journey
-- AI-driven recommendations tailored to individual health profiles
-- Clean, intuitive **TypeScript-powered** frontend experience
-- Backend built for **scalability and real-time responsiveness**
-- 🔗 [View Project →](https://github.com/Vemuriamrutha/Health-Navigator)
-
----
-
-### 🔐 Digital Footprint Risk Analyzer
-> Powerful tool to detect, analyze, and reduce your online privacy risks
-- Scans and scores your **digital exposure level**
-- Provides **actionable insights** to protect your online identity
-- Combines data analytics with an intuitive risk dashboard
-- 🔗 [View Project →](https://github.com/Vemuriamrutha/Digital-Foot-Print-Risk-Analyzer)
-
----
+| Project | Core Tech Stack | Focus Area |
+|---|---|---|
+| 🏥 [Smart Community Health Monitoring](https://github.com/Vemuriamrutha/Smart-Community-Health-Monitoring) | TypeScript, React, AI/ML | Real-time community health data at scale |
+| 🧭 [Health Navigator](https://github.com/Vemuriamrutha/Health-Navigator) | TypeScript, AI/ML, Node.js | Intelligent health guidance & recommendations |
+| 🔐 [Digital Footprint Risk Analyzer](https://github.com/Vemuriamrutha/Digital-Foot-Print-Risk-Analyzer) | Web App, AI/ML, APIs | Online privacy risk scoring & insights |
+| 🤖 AI Prescription Guard | Python, Flask | AI-driven prescription analysis for healthcare |
+| 🪙 Crypto Intelligence System (SIH-2025) | AI/ML, NLP, Graph Analytics | Cryptocurrency risk & network visualization |
+| 🏠 Voice-Controlled IoT Automation | Raspberry Pi, Google Assistant, Python | Multilingual smart home appliance control |
 ## 📜 Certifications
 
 - 🏦 **Data Analyst Job Simulation** — Deloitte (Forage)
