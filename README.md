@@ -99,9 +99,8 @@ That is exactly what makes me different.
 - 📊 **GenAI Powered Data Analytics Simulation** — TATA (Forage)
 - 🤖 **Introduction to Generative AI** — IBM
 ---
----
 
-##🏆 Hackathons & Achievements
+## 🏆 Hackathons & Achievements
 📅 2024 - 2026 Timeline
 
 ├── 🥇 Smart India Hackathon (SIH) 2025        — National Finalist
