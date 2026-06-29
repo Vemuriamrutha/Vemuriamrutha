@@ -39,7 +39,7 @@ Beyond academics, I actively participate in hackathons and engineering competiti
 I'm seeking opportunities where I can contribute to **Software Engineering, Embedded Systems, or AI/ML**, while continuing to build intelligent, reliable, and impactful technology.
 ### 🚀 What I Bring
 
--🔬 Experience working in a defence R&D environment through **DRDO – RCI**
+- 🔬 Experience working in a defence R&D environment through **DRDO – RCI**
 - 🧩 Strong systems thinking with the ability to connect hardware and software
 - 🤝 Proven collaboration and problem-solving through national-level hackathons
 - ⚡ Hands-on experience building embedded, AI-driven, and full-stack applications
