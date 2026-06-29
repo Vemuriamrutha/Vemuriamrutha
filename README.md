@@ -23,7 +23,7 @@
 
 - 💻 **Currently Working On:** Embedded Systems at DRDO-RCI (Defence-grade, physical lab)
 - 📚 **Currently Learning:** STM32 advanced firmware · REST API cloud integration · AI/ML pipelines
-- 🧩 **DSA Focus:**  Currently Solving: DSA (LeetCode)
+- 🧩 **Currently Solving:** Core DSA & LeetCode Challenges
 
 ---
 ## 💫 About Me
