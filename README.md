@@ -69,16 +69,12 @@ I enjoy taking on challenges that push me beyond my comfort zone—whether it's 
 ---
 
 ## 🏆 Hackathons & Achievements
-📅 2024 - 2026 Timeline
 
-├── 🥇 Smart India Hackathon (SIH) 2025        — National Finalist
-
-├── 🏅 AIGNITE 2025 Hackathon                  — Top 10, Malla Reddy Engineering College
-
-├── 🎖️ Nxtwave Buildathon                      — State Level
-
-└── 🔬 DRDO-RCI Embedded Systems Intern        — Defence-grade lab, Hyderabad (June 2026 – Present)
-
+- 🥇 Smart India Hackathon (SIH) 2025 — National Finalist
+- 🏅 AIGNITE 2025 — Top 10, Malla Reddy Engineering College
+- 🎖️ Nxtwave Buildathon — State Level Participant
+- 🔬 Embedded Systems Intern — DRDO-RCI (June 2026 – Present)
+  
 ---
 ## 🛠️ Tech Stack
 ### 💻 Languages & Web
