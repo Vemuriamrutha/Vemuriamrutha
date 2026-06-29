@@ -55,12 +55,12 @@ I believe good engineering is about understanding the complete system rather tha
 
 | Project | Technology | Impact |
 |---|---|---|
-| 🏥 [Smart Community Health Monitoring](https://github.com/Vemuriamrutha/Smart-Community-Health-Monitoring) | TypeScript · React · AI/ML | Monitors community health data and identifies high-risk trends using AI. |
-| 🧭 [Health Navigator](https://github.com/Vemuriamrutha/Health-Navigator) | TypeScript · Node.js · AI/ML | Provides personalized health recommendations through AI-driven analysis. |
+| 🏥 [Smart Community Health Monitoring](https://github.com/Vemuriamrutha/Smart-Community-Health-Monitoring) | TypeScript · React · AI/ML | Monitors community health trends and identifies high-risk cases using AI. |
+| 🧭 [Health Navigator](https://github.com/Vemuriamrutha/Health-Navigator) | TypeScript · Node.js · AI/ML | Generates personalized health recommendations using AI-based risk analysis. |
 | 🔐 [Digital Footprint Risk Analyzer](https://github.com/Vemuriamrutha/Digital-Foot-Print-Risk-Analyzer) | React · APIs · AI/ML | Analyzes digital exposure and generates personalized privacy risk scores. |
-| 🤖 AI Prescription Guard | Python · Flask | Detects prescription errors and assists medicine verification using AI. |
+| 🤖 AI Prescription Guard | Python · Flask | Detects prescription errors, drug interactions, and dosage inconsistencies using AI. |
 | 🪙 Crypto Intelligence System (SIH 2025) | AI/ML · NLP · Graph Analytics | Collects OSINT, analyzes wallet behavior, and identifies suspicious cryptocurrency activity. |
-| 🏠 Voice-Controlled IoT Automation | Raspberry Pi · Google Assistant · Python | Controls home appliances through multilingual voice commands. |
+| 🏠 Voice-Controlled IoT Automation | Raspberry Pi · Google Assistant · Python | Enables multilingual voice-based control of smart home appliances. |
 
 ---
 
