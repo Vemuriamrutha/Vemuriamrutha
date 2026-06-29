@@ -5,9 +5,9 @@
 
 ---
 
-🌐 Socials:
+### 🤝 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/vemuri-amrutha">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -17,10 +17,6 @@
   <a href="https://github.com/Vemuriamrutha">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vemuriamrutha&label=Profile+Views&color=C084FC&style=flat" alt="Profile Views" />
 </p>
 
 ---
