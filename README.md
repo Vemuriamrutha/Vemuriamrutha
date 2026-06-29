@@ -30,28 +30,24 @@
 
 I'm **Amrutha Vemuri**, an **Electronics and Communication Engineering** student at **Vignan Institute of Technology and Science (VITS)** and currently an **Embedded Systems Intern at DRDO – Research Centre Imarat (RCI)**.
 
-My interest in engineering began with electronics, but over time I became fascinated by how hardware and software work together to build intelligent systems. That curiosity led me into **Embedded Systems, AI/ML, IoT, and Full-Stack Development**, where I enjoy building solutions that bridge devices, software, and cloud technologies.
+My journey began with electronics, but my curiosity about how hardware and software work together led me to explore **Embedded Systems, AI/ML, IoT, and Full-Stack Development**. I enjoy building systems where embedded hardware, intelligent software, and cloud technologies come together to solve real-world problems.
 
-Working at **DRDO-RCI** has been one of the most valuable experiences in my journey. It has given me practical exposure to embedded system development, hardware validation, structured engineering practices, and the importance of reliability in mission-critical environments. It strengthened my belief that great engineering is about understanding the complete system—not just writing code.
+At **DRDO-RCI**, I've gained hands-on experience with embedded system development, hardware validation, and structured engineering practices used in mission-critical environments. Working on real engineering challenges has strengthened my understanding of reliability, system thinking, and disciplined software development.
 
-Beyond academics, I actively participate in hackathons because they push me to solve real-world problems under pressure and collaborate with talented teams. Becoming a **Smart India Hackathon (SIH) 2025 National Finalist**, securing a **Top 10 position at AIGNITE 2025**, and participating in the **Nxtwave State-Level Buildathon** have been key milestones that shaped my problem-solving and teamwork skills.
+Beyond academics, I actively participate in hackathons and engineering competitions that challenge me to learn quickly, collaborate effectively, and solve practical problems. Becoming a **Smart India Hackathon (SIH) 2025 National Finalist**, securing a **Top 10 position at AIGNITE 2025**, and participating in the **Nxtwave State-Level Buildathon** have been important milestones in my journey.
 
-I enjoy building end-to-end solutions using technologies such as **Python, TypeScript, React, FastAPI, Flask, ESP32, STM32, Raspberry Pi, and Arduino**, with projects spanning **AI, IoT, cybersecurity, blockchain intelligence, and healthcare applications**.
-
-I'm always looking for opportunities to learn, collaborate, and contribute as a **Software Engineer, Embedded Systems Engineer, or AI/ML Engineer**, while continuing to build technology that creates real-world impact.
-
+I'm seeking opportunities where I can contribute to **Software Engineering, Embedded Systems, or AI/ML**, while continuing to build intelligent, reliable, and impactful technology.
 ### 🚀 What I Bring
 
-- 🔬 Embedded Systems experience through **DRDO – RCI**
-- 🤖 AI/ML and intelligent application development
-- 💻 Full-Stack development using modern web technologies
-- 📡 Hands-on experience with microcontrollers, communication protocols, and IoT systems
-- 🏆 Proven teamwork and problem-solving through national-level hackathons and engineering competitions
-- 📈 A mindset of continuous learning, adaptability, and building practical, end-to-end solutions
+-🔬 Experience working in a defence R&D environment through **DRDO – RCI**
+- 🧩 Strong systems thinking with the ability to connect hardware and software
+- 🤝 Proven collaboration and problem-solving through national-level hackathons
+- ⚡ Hands-on experience building embedded, AI-driven, and full-stack applications
+- 📈 A growth mindset backed by continuous learning, adaptability, and ownership
 
-### 💡 Engineering Mindset
+### 💡 Engineering Mindset 
 
-I enjoy solving engineering problems that push me beyond my comfort zone. Whether working with embedded systems, AI, or full-stack applications, I focus on understanding how every component fits into the larger system. I believe curiosity, adaptability, and ownership are just as important as technical skills.
+I believe good engineering is about understanding the complete system rather than focusing on a single component. Whether I'm developing embedded firmware, building AI-powered applications, or designing backend services, I enjoy understanding how every layer works together to create reliable, scalable, and meaningful solutions.
 
 ---
 
