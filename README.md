@@ -79,7 +79,6 @@ That is exactly what makes me different.
 | 🪙 Crypto Intelligence System (SIH-2025) | AI/ML, NLP, Graph Analytics | Cryptocurrency risk & network visualization |
 | 🏠 Voice-Controlled IoT Automation | Raspberry Pi, Google Assistant, Python | Multilingual smart home appliance control |
  
-
 ---
 
 ## 🏆 Hackathons & Achievements
