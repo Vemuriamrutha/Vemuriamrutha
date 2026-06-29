@@ -160,6 +160,5 @@ That is exactly what makes me different.
 
 ---
 
-<p align="center">
 📩 vvemuriamrutha@gmail.com &nbsp;|&nbsp; 🔗 <a href="https://linkedin.com/in/vemuri-amrutha">linkedin.com/in/vemuri-amrutha</a>
 </p>
