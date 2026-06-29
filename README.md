@@ -49,9 +49,9 @@ I'm always looking for opportunities to learn, collaborate, and contribute as a 
 - 🏆 Proven teamwork and problem-solving through national-level hackathons and engineering competitions
 - 📈 A mindset of continuous learning, adaptability, and building practical, end-to-end solutions
 
-### 🌍 Beyond Technology
+### 💡 Engineering Mindset
 
-I enjoy taking on challenges that push me beyond my comfort zone—whether it's learning a new technology, building a project from scratch, or collaborating with diverse teams. I believe the best engineers are lifelong learners who combine technical expertise with curiosity, adaptability, and a strong sense of ownership. My goal is to build technology that is reliable, impactful, and solves meaningful real-world problems.
+I enjoy taking on challenges that push me beyond my comfort zone—whether it's learning a new technology, building a project from scratch, or collaborating with diverse teams. I believe the best engineers combine technical expertise with curiosity, adaptability, and a strong sense of ownership. My goal is to build reliable, intelligent, and impactful solutions by bringing together embedded systems, AI, and modern software engineering.
 
 ---
 
