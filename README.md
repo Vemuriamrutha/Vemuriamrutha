@@ -53,15 +53,15 @@ I believe good engineering is about understanding the complete system rather tha
 
 ## 📌 Featured Projects
 
-| Project | Core Tech Stack | Focus Area |
+| Project | Technology | Impact |
 |---|---|---|
-| 🏥 [Smart Community Health Monitoring](https://github.com/Vemuriamrutha/Smart-Community-Health-Monitoring) | TypeScript, React, AI/ML | Real-time community health data at scale |
-| 🧭 [Health Navigator](https://github.com/Vemuriamrutha/Health-Navigator) | TypeScript, AI/ML, Node.js | Intelligent health guidance & recommendations |
-| 🔐 [Digital Footprint Risk Analyzer](https://github.com/Vemuriamrutha/Digital-Foot-Print-Risk-Analyzer) | Web App, AI/ML, APIs | Online privacy risk scoring & insights |
-| 🤖 AI Prescription Guard | Python, Flask | AI-driven prescription analysis for healthcare |
-| 🪙 Crypto Intelligence System (SIH-2025) | AI/ML, NLP, Graph Analytics | Cryptocurrency risk & network visualization |
-| 🏠 Voice-Controlled IoT Automation | Raspberry Pi, Google Assistant, Python | Multilingual smart home appliance control |
- 
+| 🏥 [Smart Community Health Monitoring](https://github.com/Vemuriamrutha/Smart-Community-Health-Monitoring) | TypeScript · React · AI/ML | Monitors community health data and identifies high-risk trends using AI. |
+| 🧭 [Health Navigator](https://github.com/Vemuriamrutha/Health-Navigator) | TypeScript · Node.js · AI/ML | Provides personalized health recommendations through AI-driven analysis. |
+| 🔐 [Digital Footprint Risk Analyzer](https://github.com/Vemuriamrutha/Digital-Foot-Print-Risk-Analyzer) | React · APIs · AI/ML | Analyzes digital exposure and generates personalized privacy risk scores. |
+| 🤖 AI Prescription Guard | Python · Flask | Detects prescription errors and assists medicine verification using AI. |
+| 🪙 Crypto Intelligence System (SIH 2025) | AI/ML · NLP · Graph Analytics | Collects OSINT, analyzes wallet behavior, and identifies suspicious cryptocurrency activity. |
+| 🏠 Voice-Controlled IoT Automation | Raspberry Pi · Google Assistant · Python | Controls home appliances through multilingual voice commands. |
+
 ---
 
 ## 🏆 Hackathons & Achievements
