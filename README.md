@@ -147,7 +147,7 @@ I'm currently seeking opportunities where I can continue growing as a Software E
 
 ## ⚡ Fun Fact
 
-"I didn't start with tutorials — I started by building real embedded systems at a defence lab. That gap between theory and real hardware is exactly what drives me."
+> 💡 I don't measure my learning by the number of courses I've completed—I measure it by the number of problems I've solved. Every project, every hackathon, every debugging session, and every opportunity—from personal builds to my internship at **DRDO – Research Centre Imarat (RCI)**—has shaped the engineer I'm becoming.
 
 ---
 
