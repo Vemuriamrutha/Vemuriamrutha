@@ -27,47 +27,39 @@
 
 ---
 ## 💫 About Me
-🎓 While most ECE students were studying circuits in classrooms,
-I was building real systems at **DRDO – Research Centre Imarat (RCI)**
-— India's elite defence lab behind missile systems and avionics.
-That gap between most students and me? That is exactly why I am here.
 
-⚡ I master both sides of engineering completely — **ESP32, STM32,
-Raspberry Pi, Arduino, UART, I2C, SPI** on hardware. **Python,
-TypeScript, React, Flask, AWS, REST APIs** on software. Not as
-separate skills. As one unified engineering mindset that ships
-complete, production-ready solutions — independently, every time.
+I'm **Vemuri Amrutha**, an **Electronics and Communication Engineering** student at **Vignan Institute of Technology and Science (VITS)** and currently an **Embedded Systems Intern at DRDO – Research Centre Imarat (RCI)**.
 
-🏆 **SIH 2025 Finalist. AIGNITE Top 10. Nxtwave State Level.**
-Not participation certificates. Proven results — earned by building
-systems that actually work and actually compete.
+My interest in engineering started with electronics, but over time I became fascinated by how hardware and software come together to solve real-world problems. That curiosity led me beyond the classroom into embedded systems, artificial intelligence, IoT, and full-stack development. Today, I enjoy building solutions where every layer of a system—from sensors and firmware to cloud services and user interfaces—works together seamlessly.
 
-🔌 I think in full systems — sensor to firmware to API to cloud
-to dashboard — all at once. Most engineers own one piece of that
-pipeline. I own all of it.
+Working at **DRDO-RCI** has been one of the most valuable learning experiences in my journey. Being part of a defence R&D environment exposed me to embedded system development, structured engineering practices, hardware validation, and the importance of reliability in mission-critical applications. It reinforced something I strongly believe: good engineering isn't just about writing code—it is about understanding the complete system.
 
-🌍 I do not build to fill a resume.
-I build because **good engineering should make lives better.**
-That is not a goal. That is a standard.
-## 🚀 What Makes Me Different
+Alongside my internship, I actively participate in hackathons and engineering competitions because they challenge me to learn quickly, solve unfamiliar problems, and collaborate under tight deadlines. Becoming a **Smart India Hackathon (SIH) 2025 National Finalist**, securing a **Top 10 position at AIGNITE 2025**, and participating in the **Nxtwave State-Level Buildathon** have been milestones that motivated me to keep improving as an engineer.
 
-> 🔌 I don't just write code — I understand the **hardware it runs on.**
-> As an ECE engineer, I bring a rare combination of **circuit-level thinking**
-> and **full-stack development skills** that most software developers simply don't have.
-## ⚡ What I Bring To The Table
-I build complete systems — not just features, not just components,
-but entire end-to-end solutions that work in the real world.
+What excites me most is building complete solutions instead of isolated components. I enjoy working across embedded platforms like **ESP32, STM32, Raspberry Pi, and Arduino**, while also developing applications using **Python, TypeScript, React, Flask, FastAPI, and cloud technologies**. Whether I'm training a machine learning model, designing an embedded application, or developing a web platform, I enjoy understanding how each component contributes to the overall system.
 
-From **sensor interfacing and embedded firmware** to **AI-powered
-backends, REST APIs, and cloud deployments** — I handle every layer
-of the stack. I programme microcontrollers, train ML models, ship
-web applications, and deploy them on cloud infrastructure — all as
-one engineer, all independently.
+Over the past few years, I've worked on projects involving **Artificial Intelligence, Embedded Systems, IoT, Digital Privacy, Blockchain Intelligence, Healthcare Applications, and Full-Stack Web Development**. Every project has helped me strengthen not only my technical skills but also my approach to problem-solving, debugging, teamwork, and continuous learning.
 
-That is not a combination most people bring.
-That is exactly what makes me different.
+### 🚀 What Makes Me Different
+
+I don't see hardware and software as separate disciplines. My background in Electronics and Communication Engineering allows me to understand systems from the hardware level, while my interest in software enables me to build intelligent applications that run on top of those systems. This combination helps me approach engineering problems from multiple perspectives rather than focusing on only one part of the solution.
+
+### ⚡ What I Bring
+
+- 🔬 Experience working in a defence research environment at **DRDO – RCI**
+- 🤖 Practical knowledge of **AI, Machine Learning, and Intelligent Systems**
+- 💻 Full-stack development experience using modern web technologies
+- 📡 Embedded systems development with microcontrollers and communication protocols
+- 🚀 A passion for building end-to-end engineering solutions that solve practical problems
+
+### 🌍 Beyond Technology
+
+I believe technology creates the most value when it solves real problems for real people. That mindset drives every project I build. I'm always looking for opportunities to learn, collaborate with talented people, and contribute to meaningful engineering work.
+
+I'm currently seeking opportunities where I can continue growing as a Software Engineer, Embedded Systems Engineer, or AI/ML Engineer while building technology that makes a lasting impact.
 
 ---
+
 ## 📌 Featured Projects
 
 | Project | Core Tech Stack | Focus Area |
