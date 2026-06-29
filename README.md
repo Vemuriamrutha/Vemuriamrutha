@@ -51,7 +51,7 @@ I'm always looking for opportunities to learn, collaborate, and contribute as a 
 
 ### 💡 Engineering Mindset
 
-I enjoy taking on challenges that push me beyond my comfort zone—whether it's learning a new technology, building a project from scratch, or collaborating with diverse teams. I believe the best engineers combine technical expertise with curiosity, adaptability, and a strong sense of ownership. My goal is to build reliable, intelligent, and impactful solutions by bringing together embedded systems, AI, and modern software engineering.
+I enjoy solving engineering problems that push me beyond my comfort zone. Whether working with embedded systems, AI, or full-stack applications, I focus on understanding how every component fits into the larger system. I believe curiosity, adaptability, and ownership are just as important as technical skills.
 
 ---
 
