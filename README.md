@@ -16,7 +16,9 @@
   <a href="https://vemuriamrutha.github.io">
     <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
+  
 ---
+  
 ## ⚙️ Live Status
 
 - 💻 **Currently Working On:** Embedded Systems at DRDO-RCI (Defence-grade, physical lab)
