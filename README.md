@@ -13,11 +13,9 @@
   <a href="mailto:vvemuriamrutha@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Vemuriamrutha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://vemuriamrutha.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
-</p>
-
 ---
 ## ⚙️ Live Status
 
